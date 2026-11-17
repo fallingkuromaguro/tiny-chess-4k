@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/fallingkuromaguro/tiny-chess-4k/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/fallingkuromaguro/tiny-chess-4k/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A complete chess engine in a single Python file of 3,673 bytes — standard library only. It plays through the environment API (`MAKEFUN_ENV_URL`, POST /game and /move), choosing from the legal moves the environment lists.
+A complete chess engine in a single Python file of 3,989 bytes — standard library only. It plays through the environment API (`MAKEFUN_ENV_URL`, POST /game and /move), choosing from the legal moves the environment lists.
 
 ## Design
 
